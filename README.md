@@ -3,10 +3,11 @@ The TJNU Large-scale multimodal ground-based cloud database, 12K samples (LMGCD-
 
 Hereunder, some ground-based cloud images from each class are presented.
 
-[![1-1](https://github.com/shuangliutjnu/TJNU-Large-scale-Multimodal-Ground-based-cloud-Database-12K/blob/main/1-1.png)]
+![1-1](https://github.com/shuangliutjnu/TJNU-Large-scale-Multimodal-Ground-based-cloud-Database-12K/blob/main/1-1.png)
 
 Hereunder, the table lists the corresponding multimodal cloud information of the above ground-based cloud images.
 
-[![2-1](https://github.com/shuangliutjnu/TJNU-Large-scale-Multimodal-Ground-based-cloud-Database-12K/blob/main/2-1.png)]
+![2-1](https://github.com/shuangliutjnu/TJNU-Large-scale-Multimodal-Ground-based-cloud-Database-12K/blob/main/2-1.png)
 
+# Download
 Please download, fill and sign the [LMGCD-12K Agreement]() and return the whole document to shuangliu.tjnu@gmail.com or s.liu@tjnu.edu.cn. The downloaded URL and password will be contained in the replied email.
