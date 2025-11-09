@@ -10,4 +10,4 @@ Hereunder, the table lists the corresponding multimodal cloud information of the
 ![2-1](https://github.com/shuangliutjnu/TJNU-Large-scale-Multimodal-Ground-based-cloud-Database-12K/blob/main/2-1.png)
 
 # Download
-Please download, fill and sign the [LMGCD-12K Agreement](https://github.com/shuangliutjnu/TJNU-Large-scale-Multimodal-Ground-based-cloud-Database-12K/blob/main/LMGCD-12K%20Agreement.docx) and return the whole document to shuangliu.tjnu@gmail.com or s.liu@tjnu.edu.cn. The downloaded URL and password will be contained in the replied email.
+Please download, fill and sign the [LMGCD-12K Agreement](https://github.com/shuangliutjnu/TJNU-Large-scale-Multimodal-Ground-based-cloud-Database-12K/blob/main/LMGCD-12K%20Agreement.pdf) and return the whole document to shuangliu.tjnu@gmail.com or s.liu@tjnu.edu.cn. The downloaded URL and password will be contained in the replied email.
