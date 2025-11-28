@@ -3,11 +3,11 @@ The TJNU Multimodal Cloud Database, 12K Samples (MCD-12K) is collected in Tianji
 
 Hereunder, some ground-based cloud images from each class are presented.
 
-![1-1](https://github.com/shuangliutjnu/TJNU-Large-scale-Multimodal-Ground-based-cloud-Database-12K/blob/main/1-1.png)
+![1-1](https://github.com/shuangliutjnu/TJNU-Multimodal-Cloud-Database-12K/blob/main/1-1.png)
 
 Hereunder, the table lists the corresponding multimodal cloud information of the above ground-based cloud images.
 
-![2-1](https://github.com/shuangliutjnu/TJNU-Large-scale-Multimodal-Ground-based-cloud-Database-12K/blob/main/2-1.png)
+![2-1](https://github.com/shuangliutjnu/TJNU-Multimodal-Cloud-Database-12K/blob/main/2-1.png)
 
 # Download
-Please download, fill and sign the [MCD-12K Agreement](https://github.com/shuangliutjnu/TJNU-Large-scale-Multimodal-Ground-based-cloud-Database-12K/blob/main/LMGCD-12K%20Agreement.pdf) and return the whole document to shuangliu.tjnu@gmail.com or s.liu@tjnu.edu.cn. The downloaded URL and password will be contained in the replied email.
+Please download, fill and sign the [MCD-12K Agreement](https://github.com/shuangliutjnu/TJNU-Multimodal-Cloud-Database-12K/blob/main/MCD-12K%20Agreement.pdf) and return the whole document to shuangliu.tjnu@gmail.com or s.liu@tjnu.edu.cn. The downloaded URL and password will be contained in the replied email.
